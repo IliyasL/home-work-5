@@ -1,0 +1,21 @@
+h1 {
+    color: rgba(165, 128, 8, 0.699)
+}
+h2{
+    color: black;
+}
+
+.highlight{
+    size: 1cm;
+    font-size: 1cm;
+}
+
+#ddasdas{
+    color: red;
+}
+.selector{
+    color: brown;
+}
+#selector{
+    color: blueviolet;
+}
