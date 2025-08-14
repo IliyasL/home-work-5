@@ -4,6 +4,9 @@ h1 {
 h2{
     color: black;
 }
+.ab{
+    background-color: blueviolet;
+}
 
 .highlight{
     size: 1cm;
@@ -12,4 +15,10 @@ h2{
 
 #ddasdas{
     color: red;
+}
+.selector{
+    color: brown;
+}
+#selector{
+    color: blueviolet;
 }
